@@ -1,7 +1,7 @@
 PATH_HDF5 = /sw
 PATH_HDF5 = /usr/local/hdf5
 
-DEST_DIR  = ~/bin
+DEST_DIR  = ~/.local/bin
 
 CFLAGS = -O3 -Wall -Wextra -Wno-unused-result -fno-strict-aliasing
 
